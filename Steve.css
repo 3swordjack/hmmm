@@ -1,6 +1,6 @@
 @keyframes example {
-    from {background-image: url(http://www.allyson-carter.com/wp-content/uploads/2015/03/Steve-Harvey-jpg.jpg);}
-    to {background-image: url(https://i.imgur.com/xpGfACs.png);}
+    from {background-image: url(Steve-Harvey-jpg.jpg);}
+    to {background-image: url(index.png);}
 }
 body{
 background-color: red;
